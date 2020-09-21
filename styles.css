@@ -171,6 +171,7 @@ hr {
 .scout {
 	max-width: 64em;
 	padding-left: 8.25em;
+	padding-bottom: 6em;
 }
 .scout-line {
 	border-radius: 2px;
